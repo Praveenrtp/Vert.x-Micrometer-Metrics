@@ -121,10 +121,6 @@ done
 
 Metrics can be observed from https://grafana.com/docs/grafana/latest/guides/getting_started/[Grafana].
 
-[TIP]
-====
-To run a Grafana server on your machine with Docker, go to this example directory and run:
-
 [source,bash]
 ----
 docker run --network host \
